@@ -1,0 +1,13 @@
+Population of China
+Population in Millions
+Age Group
+0-9:154
+10-19:156
+20-29:177
+30-39:229
+40-49:200
+50-59:236
+60-69:150
+70-79:84
+80-89:29
+90 and older:4
